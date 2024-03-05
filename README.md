@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+![DIVISION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/d91c4844-afd6-48fb-acc7-e7c6844a6338)# EXPERIMENT--01-ALP-FOR-8086
 Name :MOHAMMAD FAIZAL SK
 Roll no :212223240092
 Date of experiment : 27.02.2024
@@ -77,23 +77,53 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
+## Addition  of 8 bit ALP
+```
+mov al,34h
+mov bl,84h
+add al,bl
+hlt
+```
 
 ## Output
-![](ADDITION.png)
+![ADDITION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/06bccc9a-8e1d-48df-a838-0a3fcd0280f8)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
+```
+mov al,56h
+mov bl,45h
+sub al,bl
+hlt
+```
  
-## Output  
-![](SUBTRACTION.png)
+## Output
+![SUBTRACTION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/7d98c1f2-1984-42ad-9601-f01dfd2dd3ba)
+
+
+
 ## Multiplication alp 
+```
+mov al,45h
+mov bl,06h
+mul bl
+hlt
+```
 ## Output  
-![](MULTIPLICATION.png)
+![MULTIPLICATION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/3e0084c3-72c7-43cb-8d2f-fc4de26bd99d)
+
 
 ## Division alp 
+```
+mov al,88h
+mov bl,11h
+div bl
+hlt
+```
 
 ## Output 
-![](DIVISION.png)
+![DIVISION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/245e2d61-ef1d-41ad-9e19-f2aae9e4cb9a)
+
 
 
 ## Result :
