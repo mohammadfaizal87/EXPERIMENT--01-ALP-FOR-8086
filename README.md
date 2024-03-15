@@ -1,4 +1,5 @@
 ![DIVISION](https://github.com/mohammadfaizal87/EXPERIMENT--01-ALP-FOR-8086/assets/147139206/d91c4844-afd6-48fb-acc7-e7c6844a6338)# EXPERIMENT--01-ALP-FOR-8086
+
 Name :MOHAMMAD FAIZAL SK
 Roll no :212223240092
 Date of experiment : 27.02.2024
